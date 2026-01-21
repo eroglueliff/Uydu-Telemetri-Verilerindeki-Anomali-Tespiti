@@ -1,0 +1,1 @@
+# Uydu-Telemetri-Verilerindeki-Anomali-Tespiti
